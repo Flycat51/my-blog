@@ -2,6 +2,7 @@
 title: LA
 pubDate: 2026-04-30
 description: LA-1
+heroImage: https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/02.jpeg)
 ---
 
 # 👋 Hello Griffith Observatory &  Farmers Market  &  Santa Monica 
