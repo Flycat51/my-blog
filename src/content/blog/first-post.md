@@ -2,10 +2,10 @@
 title: LA
 pubDate: 2026-04-30
 description: LA-1
-heroImage: https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/02.jpeg
+heroImage: https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/19.jpeg
 ---
 
-# 👋 Hello Griffith Observatory &  Farmers Market  &  Santa Monica 
+### 👋 Hello Griffith Observatory &  Farmers Market  &  Santa Monica 
 
 ![风景1](https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/01.jpeg)
 ![风景2](https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/02.jpeg)
@@ -27,7 +27,6 @@ heroImage: https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/02.jpeg
 ![风景21](https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/21.jpeg)
 ![风景22](https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/22.jpeg)
 ![风景23](https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/23.jpeg)
-![风景24](https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/24.jpeg)
 ![风景25](https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/25.jpeg)
 ![风景26](https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/26.jpeg)
 ![风景27](https://pub-e764faf0bd994416a8ff3bebc8c3c852.r2.dev/LA-1/27.jpeg)
